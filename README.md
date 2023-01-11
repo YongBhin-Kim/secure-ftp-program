@@ -14,6 +14,7 @@
 - Server
 - - Path `./FTP_Server`
 - - Command `./server <Port>`
+- Client
 - - Path `./FTP_Client`
 - - Command : `./client <IP> <Port>`
 <br>
