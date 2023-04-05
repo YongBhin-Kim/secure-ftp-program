@@ -3,7 +3,7 @@
 
 **[Environment]**
 - Language `C` 
-- OS `mac`
+- OS `mac OS`
 - Compiler `Apple clang version 13.0.0 (clang-1300.0.29.3)`
 
 **[Compile]**
